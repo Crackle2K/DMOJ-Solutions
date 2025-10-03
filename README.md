@@ -1,3 +1,3 @@
 # DMOJ-Solutions
 
-Feel free to use any of these for reference, all are judged perfect on DMOJ.
+This repository is a curated and detailed compilation of all the solutions I have developed for the programming challenges presented on the DM::OJ (Data Mining / Online Judge) platform. It serves as a testament to the problem-solving skills and algorithmic approaches I've applied to a wide array of computational tasks, ranging from basic data manipulation to more complex algorithm design. Each solution is meticulously crafted to be efficient, correct, and well-commented, providing clear insights into the logic and techniques employed to overcome each specific problem.
